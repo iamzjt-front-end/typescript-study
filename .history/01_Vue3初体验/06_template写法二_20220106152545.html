@@ -17,7 +17,7 @@
             <h2>{{ counter }}</h2>
             <button @click="increment">+1</button>
             <button @click="decrement">-1</button>
-            <button @click="btnClick">按钮</button>
+            <button @click="btnClick"></button>
         </div>
     </template>
 
@@ -41,23 +41,10 @@
                 },
                 btnClick: () => {
                     // this === window ? 不可以
-                    // 写成一个箭头函数时，这个this就是window
-                    // 在箭头函数中不绑定this
                     console.log(this);
                 }
             }
         }).mount("#app");
-
-
-        const foo = function () {
-            console.log(this);
-        }
-        foo(); // window
-
-        const obj = {
-            bar: foo
-        }
-        obj.foo(); // obj
     </script>
 </body>
 
