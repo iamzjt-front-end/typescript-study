@@ -12,7 +12,12 @@
     <div id="app"></div>
 
     <template id="my-app">
+        <!-- 1.mustache的基本使用 -->
         <h2>{{ message }}</h2>
+        <!-- 2.表达式 -->
+        <h3>{{ counter * 10 }}</h3>
+        <!-- 3.调用函数 -->
+        <h4>{{ getReverseMessage() }}</h4>
     </template>
 
     <script src="../js/vue.js"></script>
@@ -23,14 +28,17 @@
             data() {
                 return {
                     message: "Hello World",
+                    counter: 100
                 }
             },
             methods: {
-
+                getReverseMessage() {
+                    return this.message.split(" ").reverse().join(" ");
+                }
             }
         }
 
-        Vue.createApp(App).mounted("#app");
+        Vue.createApp(App).mount("#app");
     </script>
 </body>
 
