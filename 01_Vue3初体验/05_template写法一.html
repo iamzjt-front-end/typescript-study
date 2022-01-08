@@ -2,17 +2,17 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 
 <body>
-    <div id="app"></div>
+  <div id="app"></div>
 
-    <!-- script标签 -->
-    <script type="x-template" id="why">
+  <!-- script标签 -->
+  <script type="x-template" id="why">
         <div>
             <h2>{{ message }}</h2>
             <h2>{{ counter }}</h2>
@@ -21,27 +21,27 @@
         </div>
     </script>
 
-    <script src="https://unpkg.com/vue@next"></script>
-    <script>
-        Vue.createApp({
-            template: '#why',
-            data: function () {
-                return {
-                    message: "Hello World",
-                    counter: 100
-                }
-            },
-            // 定义各种各样的方法
-            methods: {
-                increment() {
-                    this.counter++;
-                },
-                decrement() {
-                    this.counter--;
-                }
-            }
-        }).mount("#app");
-    </script>
+  <script src="https://unpkg.com/vue@next"></script>
+  <script>
+    Vue.createApp({
+      template: '#why',
+      data: function () {
+        return {
+          message: "Hello World",
+          counter: 100
+        }
+      },
+      // 定义各种各样的方法
+      methods: {
+        increment() {
+          this.counter++;
+        },
+        decrement() {
+          this.counter--;
+        }
+      }
+    }).mount("#app");
+  </script>
 </body>
 
 </html>
