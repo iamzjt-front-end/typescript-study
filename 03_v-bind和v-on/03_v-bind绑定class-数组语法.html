@@ -17,10 +17,13 @@
     <div id="app"></div>
 
     <template id="my-app">
-        <!-- 对象语法: { 'active': boolean } -->
-        <h2 :class="{ 'active': isActive }">{{ message }}</h2>
-        <button @click="isActive = !isActive">切换</button>
-    </template>
+        <!-- 数组语法 -->
+        <h2 :class="['active', title]">{{ message }}</h2>
+        <!-- 三元运算符 -->
+        <h2 :class="['active', title, isActive ? 'active' : '']">{{ message }}</h2>
+        <!-- 数组语法中可以嵌套对象语法 -->
+        <h2 :class="['active', title, { 'active': isActive }]">{{ message }}</h2>
+    </template> 
 
     <script src="../js/vue.js"></script>
 
@@ -30,6 +33,7 @@
             data() {
                 return {
                     message: "Hello World",
+                    title: 'cba',
                     isActive: true
                 }
             },
