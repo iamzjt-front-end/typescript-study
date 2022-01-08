@@ -16,8 +16,13 @@
         <h2>{{ message }}</h2>
         <!-- 2.表达式 -->
         <h3>{{ counter * 10 }}</h3>
+        <h3>{{ message.split(" ").reverse().join(" ") }}</h3>
         <!-- 3.调用函数 -->
+        <!-- 可以使用computed(计算属性) -->
         <h4>{{ getReverseMessage() }}</h4>
+        <!-- 4.三元运算符 -->
+        <h5>{{ isShow ? '哈哈哈' : '嘿嘿嘿' }}</h5>
+        <button @click="isShow = !isShow">切换</button>
     </template>
 
     <script src="../js/vue.js"></script>
@@ -28,7 +33,8 @@
             data() {
                 return {
                     message: "Hello World",
-                    counter: 100
+                    counter: 100,
+                    isShow: true
                 }
             },
             methods: {
