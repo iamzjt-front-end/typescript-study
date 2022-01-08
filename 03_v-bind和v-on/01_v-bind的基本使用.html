@@ -12,7 +12,13 @@
   <div id="app"></div>
 
   <template id="my-app">
-    <h2>{{ message }}</h2>
+    <!-- v-bind的基本使用 -->
+    <img v-bind:src="imgUrl" alt="">
+    <a v-bind:href="link">百度一下</a>
+
+    <!-- v-bind的语法糖 : -->
+    <img :src="imgUrl" alt="">
+    <a :href="link">百度一下</a>
   </template>
 
   <script src="../js/vue.js"></script>
@@ -22,7 +28,8 @@
       template: "#my-app",
       data() {
         return {
-          message: "Hello World",
+          imgUrl: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202004%2F12%2F20200412022506_Qj4GF.thumb.400_0.gif&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644198800&t=de0ad63474efff2e1c42f8b9efc185f1',
+          link: 'https://www.baidu.com'
         }
       },
       methods: {
