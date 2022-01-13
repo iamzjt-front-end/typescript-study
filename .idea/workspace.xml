@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="" />
+    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +38,13 @@
       <option name="presentableId" value="Default" />
       <updated>1641997369349</updated>
       <workItem from="1641997371486" duration="5000" />
+      <workItem from="1641997427294" duration="232000" />
+      <workItem from="1641997836095" duration="110000" />
+      <workItem from="1641998119071" duration="190000" />
+      <workItem from="1641998317700" duration="93000" />
+      <workItem from="1641998420874" duration="42000" />
+      <workItem from="1641998472031" duration="169000" />
+      <workItem from="1641998652376" duration="23000" />
     </task>
     <servers />
   </component>
