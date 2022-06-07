@@ -1,4 +1,4 @@
-# vue3-ts-study
+# typeScript-study
 
 #### 介绍
-vue3+ts学习记录
+typeScript-study学习记录
