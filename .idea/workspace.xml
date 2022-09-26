@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="" />
+    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/02_TypeScript的数据类型.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/01_Vue3的引入-CDN.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/02_Vue3的引入-local.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/03_计数器案例-原生.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/04_计数器案例-Vue3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/05_template写法一.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/06_template写法二.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/01_Mustache语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/02_基本指令-v-once.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/03_基本指令-v-text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/04_基本指令-v-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/05_基本指令-v-pre.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/06_基本语法-v-cloak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/01_v-bind的基本使用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/02_v-bind绑定class-对象语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/03_v-bind绑定class-数组语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/04_v-bind绑定style-对象语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/05_v-bind绑定style-数组语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/06_v-bind动态绑定属性名.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/07_v-bind直接绑定一个对象.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/08_v-on的基本使用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/09_v-on的参数传递.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/10_v-on的修饰符.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_条件渲染/01_条件渲染的基本使用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_条件渲染/02_多个条件的渲染.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_条件渲染/03_template和v-if结合使用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_条件渲染/04_v-show的条件渲染.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_列表渲染/01_v-for的基本使用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_列表渲染/02_v-for和template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_列表渲染/03_数组的修改方法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vue.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +59,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\typeScript-study\01_邂逅Typescript" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -45,10 +87,17 @@
       <workItem from="1641998472031" duration="169000" />
       <workItem from="1641998652376" duration="23000" />
       <workItem from="1654568317341" duration="15000" />
+      <workItem from="1664089007116" duration="4453000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js" />
+        <option value="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js" />
+      </list>
+    </option>
   </component>
 </project>
