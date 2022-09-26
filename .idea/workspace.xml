@@ -1,45 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/02_TypeScript的数据类型.ts" afterDir="false" />
+    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment=":fire: feat: 01_Hello_TypeScript.ts">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/src/math.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/01_Vue3的引入-CDN.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/02_Vue3的引入-local.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/03_计数器案例-原生.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/04_计数器案例-Vue3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/05_template写法一.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/06_template写法二.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/01_Mustache语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/02_基本指令-v-once.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/03_基本指令-v-text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/04_基本指令-v-html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/05_基本指令-v-pre.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/06_基本语法-v-cloak.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/01_v-bind的基本使用.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/02_v-bind绑定class-对象语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/03_v-bind绑定class-数组语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/04_v-bind绑定style-对象语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/05_v-bind绑定style-数组语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/06_v-bind动态绑定属性名.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/07_v-bind直接绑定一个对象.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/08_v-on的基本使用.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/09_v-on的参数传递.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/10_v-on的修饰符.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_条件渲染/01_条件渲染的基本使用.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_条件渲染/02_多个条件的渲染.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_条件渲染/03_template和v-if结合使用.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_条件渲染/04_v-show的条件渲染.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_列表渲染/01_v-for的基本使用.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_列表渲染/02_v-for和template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_列表渲染/03_数组的修改方法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vue.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,9 +38,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "14.19.3",
+    "javascript.nodejs.core.library.typings.version": "14.18.30",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "configurable.group.editor",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
@@ -67,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\typeScript-study" />
       <recent name="C:\Users\admin\Desktop\typeScript-study\01_邂逅Typescript" />
     </key>
   </component>
@@ -87,8 +74,16 @@
       <workItem from="1641998472031" duration="169000" />
       <workItem from="1641998652376" duration="23000" />
       <workItem from="1654568317341" duration="15000" />
-      <workItem from="1664089007116" duration="4453000" />
+      <workItem from="1664089007116" duration="8386000" />
     </task>
+    <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
+      <created>1664159486059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664159486059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +94,32 @@
         <option value="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: 01_Hello_TypeScript.ts" />
   </component>
 </project>

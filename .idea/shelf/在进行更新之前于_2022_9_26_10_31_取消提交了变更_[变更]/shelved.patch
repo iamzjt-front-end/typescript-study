@@ -1,0 +1,81 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"93c36992-3c31-443b-ab45-6b395bc4aa42\" name=\"变更\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.ts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/01_邂逅Typescript/02_TypeScript的数据类型.ts\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/01_Vue3的引入-CDN.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/02_Vue3的引入-local.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/03_计数器案例-原生.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/04_计数器案例-Vue3.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/05_template写法一.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/01_Vue3初体验/06_template写法二.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/01_Mustache语法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/02_基本指令-v-once.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/03_基本指令-v-text.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/04_基本指令-v-html.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/05_基本指令-v-pre.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/02_Vue3的基本指令/06_基本语法-v-cloak.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/01_v-bind的基本使用.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/02_v-bind绑定class-对象语法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/03_v-bind绑定class-数组语法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/04_v-bind绑定style-对象语法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/05_v-bind绑定style-数组语法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/06_v-bind动态绑定属性名.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/07_v-bind直接绑定一个对象.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/08_v-on的基本使用.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/09_v-on的参数传递.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/03_v-bind和v-on/10_v-on的修饰符.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/04_条件渲染/01_条件渲染的基本使用.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/04_条件渲染/02_多个条件的渲染.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/04_条件渲染/03_template和v-if结合使用.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/04_条件渲染/04_v-show的条件渲染.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/05_列表渲染/01_v-for的基本使用.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/05_列表渲染/02_v-for和template.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/05_列表渲染/03_数组的修改方法.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/js/vue.js\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"23bKVBonpCktYRXqNVaFE1jSw3R\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"configurable.group.editor\",\r\n    \"ts.external.directory.path\": \"C:\\\\Program Files\\\\JetBrains\\\\WebStorm 2022.2\\\\plugins\\\\JavaScriptLanguage\\\\jsLanguageServicesImpl\\\\external\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\admin\\Desktop\\typeScript-study\\01_邂逅Typescript\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"93c36992-3c31-443b-ab45-6b395bc4aa42\" name=\"变更\" comment=\"\" />\r\n      <created>1641997369349</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1641997369349</updated>\r\n      <workItem from=\"1641997371486\" duration=\"5000\" />\r\n      <workItem from=\"1641997427294\" duration=\"232000\" />\r\n      <workItem from=\"1641997836095\" duration=\"110000\" />\r\n      <workItem from=\"1641998119071\" duration=\"190000\" />\r\n      <workItem from=\"1641998317700\" duration=\"93000\" />\r\n      <workItem from=\"1641998420874\" duration=\"42000\" />\r\n      <workItem from=\"1641998472031\" duration=\"169000\" />\r\n      <workItem from=\"1641998652376\" duration=\"23000\" />\r\n      <workItem from=\"1654568317341\" duration=\"15000\" />\r\n      <workItem from=\"1664089007116\" duration=\"4453000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n    <option name=\"exactExcludedFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js\" />\r\n        <option value=\"$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9b185c9de30ad2430b21f3a010f22804750b58f8)
++++ b/.idea/workspace.xml	(date 1664159491246)
+@@ -1,41 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
+-      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.ts" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/01_邂逅Typescript/02_TypeScript的数据类型.ts" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/01_Vue3的引入-CDN.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/02_Vue3的引入-local.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/03_计数器案例-原生.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/04_计数器案例-Vue3.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/05_template写法一.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/01_Vue3初体验/06_template写法二.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/01_Mustache语法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/02_基本指令-v-once.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/03_基本指令-v-text.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/04_基本指令-v-html.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/05_基本指令-v-pre.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/02_Vue3的基本指令/06_基本语法-v-cloak.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/01_v-bind的基本使用.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/02_v-bind绑定class-对象语法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/03_v-bind绑定class-数组语法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/04_v-bind绑定style-对象语法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/05_v-bind绑定style-数组语法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/06_v-bind动态绑定属性名.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/07_v-bind直接绑定一个对象.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/08_v-on的基本使用.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/09_v-on的参数传递.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/03_v-bind和v-on/10_v-on的修饰符.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/04_条件渲染/01_条件渲染的基本使用.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/04_条件渲染/02_多个条件的渲染.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/04_条件渲染/03_template和v-if结合使用.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/04_条件渲染/04_v-show的条件渲染.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/05_列表渲染/01_v-for的基本使用.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/05_列表渲染/02_v-for和template.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/05_列表渲染/03_数组的修改方法.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/js/vue.js" beforeDir="false" />
+-    </list>
++    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -87,8 +53,16 @@
+       <workItem from="1641998472031" duration="169000" />
+       <workItem from="1641998652376" duration="23000" />
+       <workItem from="1654568317341" duration="15000" />
+-      <workItem from="1664089007116" duration="4453000" />
++      <workItem from="1664089007116" duration="4794000" />
+     </task>
++    <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
++      <created>1664159486059</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1664159486059</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -100,4 +74,8 @@
+       </list>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
++    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: 01_Hello_TypeScript.ts" />
++  </component>
+ </project>
+\ No newline at end of file
