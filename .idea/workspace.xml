@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment=":fire: feat: 01_Hello_TypeScript.ts">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/src/math.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" afterDir="false" />
+    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_webpack_ts/dist/bundle.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +51,23 @@
       <recent name="C:\Users\admin\Desktop\typeScript-study\01_邂逅Typescript" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/02_webpack_ts/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -74,7 +85,7 @@
       <workItem from="1641998472031" duration="169000" />
       <workItem from="1641998652376" duration="23000" />
       <workItem from="1654568317341" duration="15000" />
-      <workItem from="1664089007116" duration="8386000" />
+      <workItem from="1664089007116" duration="10308000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
       <created>1664159486059</created>
@@ -83,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664159486059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)">
+      <created>1664163521061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664163521061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
-    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: 01_Hello_TypeScript.ts" />
+    <MESSAGE value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
   </component>
 </project>
