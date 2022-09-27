@@ -1,191 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" afterDir="false" />
+    <list default="true" id="9a78ebd2-2e26-42ce-99e0-6480ee531710" name="变更" comment=":fire: feat: webpack server">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="23bKVBonpCktYRXqNVaFE1jSw3R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "14.19.3",
-    "javascript.nodejs.core.library.typings.version": "14.18.30",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\typeScript-study\\02_webpack_ts\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+    "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\typeScript-study\\02_webpack_ts\\node_modules\\typescript\\lib"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\Desktop\typeScript-study" />
-      <recent name="C:\Users\admin\Desktop\typeScript-study\01_邂逅Typescript" />
-    </key>
-  </component>
-  <component name="RunManager" selected="npm.serve">
-    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/02_webpack_ts/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/02_webpack_ts/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="serve" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.serve" />
-        <item itemvalue="npm.build" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="" />
-      <created>1641997369349</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1641997369349</updated>
-      <workItem from="1641997371486" duration="5000" />
-      <workItem from="1641997427294" duration="232000" />
-      <workItem from="1641997836095" duration="110000" />
-      <workItem from="1641998119071" duration="190000" />
-      <workItem from="1641998317700" duration="93000" />
-      <workItem from="1641998420874" duration="42000" />
-      <workItem from="1641998472031" duration="169000" />
-      <workItem from="1641998652376" duration="23000" />
-      <workItem from="1654568317341" duration="15000" />
-      <workItem from="1664089007116" duration="15348000" />
-      <workItem from="1664242959426" duration="16000" />
-      <workItem from="1664242984733" duration="4652000" />
-      <workItem from="1664265540267" duration="2071000" />
-    </task>
-    <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
-      <created>1664159486059</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1664159486059</updated>
-    </task>
-    <task id="LOCAL-00002" summary=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)">
-      <created>1664163521061</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664163521061</updated>
-    </task>
-    <task id="LOCAL-00003" summary=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)">
-      <created>1664166486279</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1664166486279</updated>
-    </task>
-    <task id="LOCAL-00004" summary=":fire: feat: build">
-      <created>1664266513946</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1664266513946</updated>
-    </task>
-    <task id="LOCAL-00005" summary=":fire: feat: build">
-      <created>1664266525578</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1664266525578</updated>
-    </task>
-    <task id="LOCAL-00006" summary=":fire: feat: ts-loader 和 typescript">
-      <created>1664267253779</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1664267253779</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js" />
-        <option value="$PROJECT_DIR$/01_邂逅Typescript/01_Hello_TypeScript.js" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
-    <MESSAGE value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
-    <MESSAGE value=":fire: feat: build" />
-    <MESSAGE value=":fire: feat: ts-loader 和 typescript" />
-    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: ts-loader 和 typescript" />
   </component>
 </project>
