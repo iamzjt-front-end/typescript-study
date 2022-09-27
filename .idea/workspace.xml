@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="93c36992-3c31-443b-ab45-6b395bc4aa42" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02_webpack_ts/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_webpack_ts/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +32,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;14.19.3&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;14.18.30&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "14.19.3",
+    "javascript.nodejs.core.library.typings.version": "14.18.30",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\typeScript-study\\02_webpack_ts\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\typeScript-study" />
@@ -100,7 +102,7 @@
       <workItem from="1664089007116" duration="15348000" />
       <workItem from="1664242959426" duration="16000" />
       <workItem from="1664242984733" duration="4652000" />
-      <workItem from="1664265540267" duration="1602000" />
+      <workItem from="1664265540267" duration="2071000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
       <created>1664159486059</created>
@@ -137,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664266525578</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":fire: feat: ts-loader 和 typescript">
+      <created>1664267253779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664267253779</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +185,7 @@
     <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
     <MESSAGE value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
     <MESSAGE value=":fire: feat: build" />
-    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: build" />
+    <MESSAGE value=":fire: feat: ts-loader 和 typescript" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: ts-loader 和 typescript" />
   </component>
 </project>
