@@ -52,7 +52,7 @@
       <recent name="C:\Users\admin\Desktop\typeScript-study\01_邂逅Typescript" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.serve">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/02_webpack_ts/package.json" />
       <command value="run" />
@@ -75,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.serve" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1664089007116" duration="15348000" />
       <workItem from="1664242959426" duration="16000" />
       <workItem from="1664242984733" duration="4652000" />
-      <workItem from="1664265540267" duration="756000" />
+      <workItem from="1664265540267" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: feat: 01_Hello_TypeScript.ts">
       <created>1664159486059</created>
@@ -123,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664166486279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":fire: feat: build">
+      <created>1664266513946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664266513946</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":fire: feat: build">
+      <created>1664266525578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664266525578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":fire: feat: 01_Hello_TypeScript.ts" />
     <MESSAGE value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: 02_webpack_ts (搭建webpack_ts开发环境)" />
+    <MESSAGE value=":fire: feat: build" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fire: feat: build" />
   </component>
 </project>
