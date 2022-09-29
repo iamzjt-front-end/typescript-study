@@ -6,5 +6,6 @@ function foo(message: string) {
 const names = ['abc', 'cba', 'nba'];
 names.forEach(function (item) {
   // item的类型是根据上下文环境推导出来的，这个时候可以不添加类型注解
+  // 上下文类型
   console.log(item.split('b'));
 })
