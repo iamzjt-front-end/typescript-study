@@ -1,9 +1,8 @@
-// 类型断言 as
-// 转成具体类型 --> 缩小类型范围
+// 1. 类型断言 as 转成具体类型 --> 缩小类型范围
 // const el = document.getElementById("why") as HTMLImageElement;
-
 // el.src = "url地址";
 
+// 2. 对象继承
 class Person {
 
 }
@@ -21,3 +20,7 @@ function sayHello(p: Person) {
 
 const stu = new Student();
 sayHello(stu);
+
+// 3. 了解 as any/unknown
+const message = 'Hello World';
+const num: number = message as any; // (message as any) as number
