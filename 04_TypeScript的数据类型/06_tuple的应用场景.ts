@@ -13,11 +13,15 @@ function useState<T>(state: T) {
 
 const [num, setNum] = useState(10);
 const [str, setStr] = useState('abc');
+const [flag, setFlag] = useState(true);
 
 console.log(num);
 setNum(100);
 
 console.log(str);
 setStr('100');
+
+console.log(flag);
+setFlag(false);
 
 export {}
