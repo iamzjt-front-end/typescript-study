@@ -1,5 +1,6 @@
-function printMessageLength(message: string) {
-  console.log(message.length);
+// message? -> undefined | string
+function printMessageLength(message?: string) {
+  console.log(message!.length);
 }
 
 printMessageLength('Hello World!');
