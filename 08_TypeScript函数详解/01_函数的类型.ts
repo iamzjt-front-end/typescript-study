@@ -11,7 +11,7 @@ function bar(fn: FooFnType) {
 bar(foo);
 
 // 定义常量时，函数的类型
-type AddFnType = (num1: number, num2: number) => void;
+type AddFnType = (num1: number, num2: number) => number;
 
 const add: AddFnType = (num1: number, num2: number) => {
   return num1 + num2;
