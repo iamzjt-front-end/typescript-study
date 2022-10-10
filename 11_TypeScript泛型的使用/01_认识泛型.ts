@@ -1,7 +1,7 @@
 // 泛型 -> 将类型参数化
 // 在定义函数时，不决定参数的类型
 // 而是让调用者以参数的形式告知
-function sum<Type>(num1: Type): Type {
+function sum<T>(num1: T): T {
   return num1;
 }
 
