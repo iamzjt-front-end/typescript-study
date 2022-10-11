@@ -14,7 +14,7 @@ module.exports = {
   },
   mode: 'production',
   resolve: {
-    extensions: ['.ts', '.js']
+    extensions: ['.ts', '.js', '.cjs', '.json']
   },
   module: {
     rules: [
@@ -26,7 +26,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: 'index.html'
+      template: './index.html'
     })
   ]
 };
