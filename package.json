@@ -1,0 +1,11 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iamzjt-front-end/typeScript-study.git",
+  "author": "iamzjt-front-end <iamzjt@foxmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
